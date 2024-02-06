@@ -3,6 +3,6 @@
 This is the start to my personal website.
 
 My favorite sports team is the seahawks
-[Seahawks] (
+[Seahawks](https://www.seahawks.com/)
 
-Here is a [list] of my fa
+Here is a [list] of my favorite spots in Corvallis
