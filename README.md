@@ -1,4 +1,4 @@
-# lexielex27.github.io.
+# lexielex27.github.io
 
 This is the start to my personal website.
 
